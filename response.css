@@ -1,0 +1,78 @@
+.start{
+    background-image: radial-gradient(white,rgb(255, 147, 147));
+    height: 580px;
+    width: 100%;
+}
+
+.txt {
+    margin: 0px;
+}
+
+
+#xy {
+    display: flex;
+    margin: 0px;
+}
+
+#image img{
+    height: 315px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mid{
+    background-color: white;
+    height: 900px;
+    }
+
+.nxt{
+    border: 2px solid black;
+    width: 72%;
+    height: 39%;
+    margin-left: 228px;
+    background-color:rgb(235, 233, 233) ;
+    display: flex;
+    padding: 50px;
+}
+
+#photo img{
+    height: 234px;
+    margin: 0px;
+}
+
+.low img {
+    height: 231px;
+    margin: 0px;
+}
+
+.low{
+    background-image: radial-gradient(white,rgb(255, 147, 147));
+    height: 359px;
+    display: flex;
+}
+
+.client_item {
+    padding: 2px;
+    margin-top: 61px;
+}
+
+.bottom{
+    height: auto;
+}
+
+
+#clients{
+    flex-wrap: wrap;
+}
+
+#clients img{
+    height: 50px;
+}
+
+
+.last{
+    height: auto;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
